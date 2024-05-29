@@ -22,7 +22,10 @@ In this project, cancellation prediction is the specific data mining goals for b
 * Model Evaluation - K Fold Cross Validation, Classification report (Precision, recall), Confusion Matrix
 # ML Algorithm
 * Logistic Regression
-# Descriptive Analytics
-* Tableau dashboards
+# Descriptive Analytics - Tableau dashboards
+
 ![HR_Dadboard1](https://github.com/RutvijDarji/HOTEL-BOOKING-CANCELLATION-PREDICTION/assets/80823722/f3c64097-50b3-4a1e-828a-467625b7b97d)
+
+![HR_Dashboard2](https://github.com/RutvijDarji/HOTEL-BOOKING-CANCELLATION-PREDICTION/assets/80823722/0abd59f1-e640-41cc-97d4-b9b061273ed2)
+
 
